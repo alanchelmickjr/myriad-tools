@@ -57,11 +57,14 @@ Flexible URL Input: Specify the URL for targeted information extraction.
 Screenshot Option: Take a screenshot of the page as needed.
 Proxy Support: Easily use a proxy when accessing content.
 Getting Started 🚀
-Clone the repository:
+
+0. this code does not require access codes, abuse prevention will require implementing access codes so come back here is you get a permission error and update your code
 
 
-git clone https://github.com/yourusername/myriadai-toolbox.git
-Follow the API specifications to integrate and use the tools.
+1. copy and paste the JSON file you wish to use into a new Tool you just created by Clicking on "New Tool" in your left side drawer (under the lightning bolt)
+2. press ! while using gpt-4o (select OpenAI, it is their default in our system) select your tool from the list that opens when you type ! in the input
+3. wait patiently as your ai assistant searches the internet and returns the response
+
 Contributing 🤝
 We welcome contributions! Feel free to fork the repo, create a branch, and submit a pull request with your improvements!
 License 📝
