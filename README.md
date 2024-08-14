@@ -1,7 +1,7 @@
 # Myriad AI Toolbox 🛠️
 #### powered by the Ethical Responsible Ai Consortium (E.R.A.C.) 
 
-Welcome to the MyriaDAI Toolbox! This repository contains a collection of powerful tools that extend the functionality of AI models available at [MyriaDAI](https://myriadai.online). These tools allow you to interact with various APIs and perform internet searches to retrieve and manipulate data seamlessly. 
+Welcome to the MyriadAi Toolbox! This repository contains a collection of powerful tools that extend the functionality of AI models available at [MyriaDAI](https://myriadai.online). These tools allow you to interact with various APIs and perform internet searches to retrieve and manipulate data seamlessly. 
 
 As always, use ethically and responsibly please, it keeps the government from making us track everything you do.  In the Builder/Pro version you can drag and drop these tools with no code.  For those of you who wish to use the Internet with the Free version, here is the tool, for a short time.
 
@@ -67,9 +67,9 @@ Proxy Support: Easily use a proxy when accessing content.
 0. this beta version does not require access codes, abuse prevention will require implementing access codes so come back here is you get a permission error and update your code
 
 
-1. copy and paste the JSON file you wish to use into a new Tool you just created by Clicking on "New Tool" in your left side drawer (under the lightning bolt)
-2. press ! while using gpt-4o (select OpenAI, it is their default in our system) select your tool from the list that opens when you type ! in the input
-3. wait patiently as your ai assistant searches the internet and returns the response
+1. copy and paste the JSON file you wish to use into a new Tool you just created by Clicking on "New Tool" in your left side drawer (under the lightning bolt) after you signup for Free at https://myriadai.online
+3. press ! while using gpt-4o (select OpenAI, it is their default in our system) select your tool from the list that opens when you type ! in the input
+4. wait patiently as your ai assistant searches the internet and returns the response
 
 #### Contributing 🤝
 We welcome contributions! Feel free to fork the repo, create a branch, and submit a pull request with your improvements!
