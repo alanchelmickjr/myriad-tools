@@ -53,9 +53,14 @@ This tool uses the OpenAPI Specification:
 ```
 #### Features ⭐
 Command Execution: Run specific commands to retrieve data from web pages.
+
 Flexible URL Input: Specify the URL for targeted information extraction.
+
 Screenshot Option: Take a screenshot of the page as needed.
+
 Proxy Support: Easily use a proxy when accessing content.
+
+
 Getting Started 🚀
 
 0. this beta version does not require access codes, abuse prevention will require implementing access codes so come back here is you get a permission error and update your code
