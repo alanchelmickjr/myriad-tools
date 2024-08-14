@@ -50,3 +50,25 @@ This tool uses the OpenAPI Specification:
     }
   }
 }
+
+Features ⭐
+Command Execution: Run specific commands to retrieve data from web pages.
+Flexible URL Input: Specify the URL for targeted information extraction.
+Screenshot Option: Take a screenshot of the page as needed.
+Proxy Support: Easily use a proxy when accessing content.
+Getting Started 🚀
+Clone the repository:
+
+
+git clone https://github.com/yourusername/myriadai-toolbox.git
+Follow the API specifications to integrate and use the tools.
+Contributing 🤝
+We welcome contributions! Feel free to fork the repo, create a branch, and submit a pull request with your improvements!
+License 📝
+This project is licensed under the MIT License - see the LICENSE file for details.
+Contact Me! 📫
+For questions or support, reach out via GitHub Issues or check out my profile on MyriaDAI.
+
+
+
+Feel free to copy and paste! If you need anything else, just let me know! 😊✨
