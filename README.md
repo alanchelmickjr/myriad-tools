@@ -61,8 +61,7 @@ Screenshot Option: Take a screenshot of the page as needed.
 Proxy Support: Easily use a proxy when accessing content.
 
 
-
-Getting Started 🚀
+#### Getting Started 🚀
 
 0. this beta version does not require access codes, abuse prevention will require implementing access codes so come back here is you get a permission error and update your code
 
@@ -71,7 +70,7 @@ Getting Started 🚀
 2. press ! while using gpt-4o (select OpenAI, it is their default in our system) select your tool from the list that opens when you type ! in the input
 3. wait patiently as your ai assistant searches the internet and returns the response
 
-Contributing 🤝
+#### Contributing 🤝
 We welcome contributions! Feel free to fork the repo, create a branch, and submit a pull request with your improvements!
 License 📝
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -80,4 +79,4 @@ For questions or support, reach out via GitHub Issues or check out my profile on
 
 
 
-Feel free to copy and paste! If you need anything else, just let me know! 😊✨
+#### Feel free to copy and paste! If you need anything else, just let me know! 😊✨
