@@ -2,6 +2,8 @@
 
 Welcome to the MyriaDAI Toolbox! This repository contains a collection of powerful tools that extend the functionality of AI models available at [MyriaDAI](https://myriadai.online). These tools allow you to interact with various APIs and perform internet searches to retrieve and manipulate data seamlessly. 
 
+As always, use ethically and responsibly please, it keeps the government from making us track everything you do.
+
 ## Look Inside! 🕵️‍♀️
 
 ### Web Surfing Tool 🌐
