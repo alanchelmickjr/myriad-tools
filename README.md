@@ -3,7 +3,7 @@
 
 Welcome to the MyriadAi Toolbox! This repository contains a collection of powerful tools that extend the functionality of AI models available at [MyriaDAI](https://myriadai.online). These tools allow you to interact with various APIs and perform internet searches to retrieve and manipulate data seamlessly. 
 
-As always, use ethically and responsibly please, it keeps the government from making us track everything you do.  In the Builder/Pro version you can drag and drop these tools with no code.  For those of you who wish to use the Internet with the Free version, here is the tool, for a short time.
+As always, use ethically and responsibly please, it keeps the government from making us track everything you do.  In the Builder/Pro version you can drag and drop these tools with no code. ### During this beta testing phase while we build the tools: For those of you who wish to use the Internet with the Free version, here is the tool, for a short time.
 
 ## Look Inside! 🕵️‍♀️
 
