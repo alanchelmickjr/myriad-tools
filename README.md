@@ -50,8 +50,8 @@ This tool uses the OpenAPI Specification:
     }
   }
 }
-
-Features ⭐
+```
+#### Features ⭐
 Command Execution: Run specific commands to retrieve data from web pages.
 Flexible URL Input: Specify the URL for targeted information extraction.
 Screenshot Option: Take a screenshot of the page as needed.
