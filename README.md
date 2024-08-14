@@ -68,7 +68,7 @@ Proxy Support: Easily use a proxy when accessing content.
 
 
 1. copy and paste the JSON file you wish to use into a new Tool you just created by Clicking on "New Tool" in your left side drawer (under the lightning bolt) after you signup for Free at https://myriadai.online
-3. press ! while using gpt-4o (select OpenAI, it is their default in our system) select your tool from the list that opens when you type ! in the input
+3. press ! while using gpt-4o and select your tool from the list that opens when you type ! in the input
 4. wait patiently as your ai assistant searches the internet and returns the response
 
 #### Contributing 🤝
