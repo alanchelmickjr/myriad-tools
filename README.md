@@ -58,7 +58,7 @@ Screenshot Option: Take a screenshot of the page as needed.
 Proxy Support: Easily use a proxy when accessing content.
 Getting Started 🚀
 
-0. this code does not require access codes, abuse prevention will require implementing access codes so come back here is you get a permission error and update your code
+0. this beta version does not require access codes, abuse prevention will require implementing access codes so come back here is you get a permission error and update your code
 
 
 1. copy and paste the JSON file you wish to use into a new Tool you just created by Clicking on "New Tool" in your left side drawer (under the lightning bolt)
