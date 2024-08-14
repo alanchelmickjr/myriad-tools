@@ -71,6 +71,10 @@ Proxy Support: Easily use a proxy when accessing content.
 3. press ! while using gpt-4o and select your tool from the list that opens when you type ! in the input
 4. wait patiently as your ai assistant searches the internet and returns the response
 
+
+5. also while creating an assistant you may select this tool for that assistant, please use gpt-4o during beta, that will tie internet searches to that agents tool pipeline
+
+
 #### Contributing 🤝
 We welcome contributions! Feel free to fork the repo, create a branch, and submit a pull request with your improvements!
 License 📝
