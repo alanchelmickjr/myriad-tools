@@ -1,4 +1,4 @@
-# MyriaDAI Toolbox 🛠️
+# MyriaD AI Toolbox powered by the Ethical Responsible Ai Consortium (E.R.A.C.) 🛠️
 
 Welcome to the MyriaDAI Toolbox! This repository contains a collection of powerful tools that extend the functionality of AI models available at [MyriaDAI](https://myriadai.online). These tools allow you to interact with various APIs and perform internet searches to retrieve and manipulate data seamlessly. 
 
