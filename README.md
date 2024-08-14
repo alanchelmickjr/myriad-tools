@@ -32,7 +32,7 @@ This tool uses the OpenAPI Specification:
         "operationId": "SurfWeb",
         "parameters": [
           { "namecmd", "in": "query", "required": true, "description": "Command to execute.", "example": "summarize" },
-          { "name": "url", "in": "query", "required": true, "description": "URL to query.", "example": "https://www.albanyumc.org" },
+          { "name": "url", "in": "query", "required": false, "description": "URL to query.", "example": "https://myriadai.online" },
           { "name": "sshot", "in": "query", "required": false, "description": "Flag for taking a screenshot.", "example": false },
           { "name": "proxy", "in": "query", "required": false, "description": "Flag for using a proxy.", "example": false }
         ],
