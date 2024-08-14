@@ -61,6 +61,7 @@ Screenshot Option: Take a screenshot of the page as needed.
 Proxy Support: Easily use a proxy when accessing content.
 
 
+
 Getting Started 🚀
 
 0. this beta version does not require access codes, abuse prevention will require implementing access codes so come back here is you get a permission error and update your code
