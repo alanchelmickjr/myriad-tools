@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Web Surfing Tool",
-    "description": "This tool allows you to surf the internet and retrieve data based on a specific command and URL. You can use it to extract information from web pages by specifying what you want to find and the URL of the page.",
+    "description": "This tool allows you to surf the internet and retrieve data based on a specific command and URL.",
     "version": "v1.0.0"
   },
   "servers": [
@@ -19,42 +19,52 @@
           {
             "name": "cmd",
             "in": "query",
-            "description": "The command to execute, describing what information to retrieve from the URL. For example: 'cmd: Find the top comment of the top post on Hackernews.' add 'cmd:' to the beginning if it does not exist.",
             "required": true,
+            "description": "Items to search the Internet for",
+            "example": "summarize",
             "schema": {
               "type": "string"
-            },
-            "example": "summarize"
+            }
           },
           {
             "name": "url",
             "in": "query",
-            "description": "The URL of the web page to execute the command on. example: 'url: https://www.myriadai.online ' add the 'url:' to the beginning and 'https://' if they are missing.",
             "required": true,
+            "description": "URL to query.",
+            "example": "https://myriadai.online",
             "schema": {
               "type": "string"
-            },
-            "example": "https://www.albanyumc.org"
+            }
           },
           {
             "name": "sshot",
             "in": "query",
-            "description": "A boolean flag to determine if a screenshot should be taken. Defaults to false if not provided.",
             "required": false,
+            "description": "Flag for taking a screenshot.",
+            "example": false,
             "schema": {
               "type": "boolean"
-            },
-            "example": false
+            }
           },
           {
             "name": "proxy",
             "in": "query",
-            "description": "A boolean flag to determine if a proxy should be used. Defaults to false if not provided.",
             "required": false,
+            "description": "Flag for using a proxy.",
+            "example": false,
             "schema": {
               "type": "boolean"
-            },
-            "example": false
+            }
+          },
+          {
+            "name": "sessionId",
+            "in": "query",
+            "required": false,
+            "description": "Session ID to maintain state across multiple requests.",
+            "example": "abc123",
+            "schema": {
+              "type": "string"
+            }
           }
         ],
         "responses": {
@@ -67,7 +77,7 @@
                   "properties": {
                     "result": {
                       "type": "string",
-                      "description": "The information retrieved from the web page based on the command."
+                      "description": "Retrieved information."
                     }
                   }
                 }
@@ -75,7 +85,7 @@
             }
           },
           "400": {
-            "description": "Bad request, likely due to missing or invalid parameters"
+            "description": "Bad request"
           },
           "500": {
             "description": "Internal server error"
