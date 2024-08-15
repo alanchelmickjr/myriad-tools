@@ -36,18 +36,80 @@ This tool uses the OpenAPI Specification:
         "description": "Execute a command on a specific URL to retrieve information",
         "operationId": "SurfWeb",
         "parameters": [
-          { "namecmd", "in": "query", "required": true, "description": "Command to execute.", "example": "summarize" },
-          { "name": "url", "in": "query", "required": false, "description": "URL to query.", "example": "https://myriadai.online" },
-          { "name": "sshot", "in": "query", "required": false, "description": "Flag for taking a screenshot.", "example": false },
-          { "name": "proxy", "in": "query", "required": false, "description": "Flag for using a proxy.", "example": false }
+          {
+            "name": "cmd",
+            "in": "query",
+            "required": true,
+            "description": "Items to search the Internet for",
+            "example": "summarize",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "url",
+            "in": "query",
+            "required": true,
+            "description": "URL to query.",
+            "example": "https://myriadai.online",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "sshot",
+            "in": "query",
+            "required": false,
+            "description": "Flag for taking a screenshot.",
+            "example": false,
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "proxy",
+            "in": "query",
+            "required": false,
+            "description": "Flag for using a proxy.",
+            "example": false,
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "sessionId",
+            "in": "query",
+            "required": false,
+            "description": "Session ID to maintain state across multiple requests.",
+            "example": "abc123",
+            "schema": {
+              "type": "string"
+            }
+          }
         ],
         "responses": {
           "200": {
             "description": "Successful response with the retrieved information",
-            "content": { "application/json": { "schema": { "type": "object", "properties": { "result": { "type": "string", "description": "Retrieved information." }}}}}  
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "result": {
+                      "type": "string",
+                      "description": "Retrieved information."
+                    }
+                  }
+                }
+              }
+            }
           },
-          "400": { "description": "Bad request" },
-          "500": { "description": "Internal server error" }
+          "400": {
+            "description": "Bad request"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
         }
       }
     }
