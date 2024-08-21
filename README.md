@@ -5,7 +5,7 @@ Welcome to the MyriadAi Toolbox! This repository contains a collection of powerf
 
 As always, use ethically and responsibly please, it keeps the government from making us track everything you do.  In the Builder/Pro version you can drag and drop these tools with no code. 
 
-## During this BETA testing phase while we build the tools be free to test.  This tool is functioning and API Key will required soon.
+## During this BETA testing phase while we build the tools be free to test.  This tool is functioning and an API Key will required in 3 days.
 
 ## Look Inside! 🕵️‍♀️
 
