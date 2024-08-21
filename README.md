@@ -5,7 +5,8 @@ Welcome to the MyriadAi Toolbox! This repository contains a collection of powerf
 
 As always, use ethically and responsibly please, it keeps the government from making us track everything you do.  In the Builder/Pro version you can drag and drop these tools with no code. 
 
-## During this BETA testing phase while we build the tools be free to test.  This tool is functioning and an API Key will required in 3 days.
+## During this BETA testing phase while we build the tools be free to test.  This tool is functioning and an API Key will be required in 3 days, best to grab your key now at https://www.multion.ai/ and put in the the headers section, more examples coming soon.  Without this key you will need a subscription to access the Internet directly with your models.
+<img width="170" alt="multion.ai" src="https://github.com/user-attachments/assets/7b263c91-7ce9-4737-a1f7-3dd5b37341ad">
 
 ## Look Inside! 🕵️‍♀️
 
